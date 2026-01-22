@@ -1,0 +1,15 @@
+ touch file1
+  786  ls
+  787  mkdir cloud
+  788  ls
+  789  ls -l
+  790  chmod 777 file1
+  791  ls -l
+  792  rm file1
+  793  ls -l
+  794  top
+  795  htop
+  796  df -
+  797  df -h
+  798  free -m
+  799  history
